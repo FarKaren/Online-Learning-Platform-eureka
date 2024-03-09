@@ -1,4 +1,4 @@
-package com.example.eureka;
+package org.otus.platform.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
